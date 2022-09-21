@@ -5,3 +5,7 @@
 '''
 from ejercicio import datos
 datos = datos()
+datos.llenarDatos()
+datos.buscarActor()
+datos.buscarPorLenguajeOriginal()
+datos.eliminarSeriePorPremierDate()
